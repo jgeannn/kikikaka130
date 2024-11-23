@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Halaman Kustom</title>
+    <style>
+        body {
+            /* Anda bisa mengubah warna background di sini */
+            background-color: #87CEEB;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .custom-text {
+            /* Anda bisa mengubah properti teks di sini */
+            color: #FFFFFF;
+            font-size: 48px;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="custom-text">
+        <!-- Anda bisa mengubah teks di sini -->
+        Selamat Datang di Website Saya!
+    </div>
+</body>
+</html>
